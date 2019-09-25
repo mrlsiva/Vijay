@@ -1,0 +1,445 @@
+{
+    "user": [
+        {
+            "MovieID": 1,
+            "MovieName": "Naalaiya Theerpu",
+            "Role": "Vijay",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1992
+        },
+        {
+            "MovieID": 2,
+            "MovieName": "Sendhoorapandi",
+            "Role": "Vijay",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1993
+        },
+        {
+            "MovieID": 3,
+            "MovieName": "Rasigan",
+            "Role": "Vijay",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1994
+        },
+        {
+            "MovieID": 4,
+            "MovieName": "Deva",
+            "Role": "Deva",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1995
+        },
+        {
+            "MovieID": 5,
+            "MovieName": "Rajavin Parvaiyile",
+            "Role": "Raja",
+            "Director": "Janaki Soundar",
+            "Year": 1995
+        },
+        {
+            "MovieID": 6,
+            "MovieName": "Vishnu",
+            "Role": "Vishnu | Krishna",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1995
+        },
+        {
+            "MovieID": 7,
+            "MovieName": "Chandralekha",
+            "Role": "Rahim",
+            "Director": "Nambirajan",
+            "Year": 1995
+        },
+        {
+            "MovieID": 8,
+            "MovieName": "Coimbatore Mappillai",
+            "Role": "Balu",
+            "Director": "C. Ranganathan",
+            "Year": 1996
+        },
+        {
+            "MovieID": 9,
+            "MovieName": "Poove Unakkaga",
+            "Role": "Raja",
+            "Director": "Vikraman",
+            "Year": 1996
+        },
+        {
+            "MovieID": 10,
+            "MovieName": "Vasantha Vaasal",
+            "Role": "Vijay",
+            "Director": "M. R.",
+            "Year": 1996
+        },
+        {
+            "MovieID": 11,
+            "MovieName": "Maanbumigu Maanavan",
+            "Role": "Sivaraj",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1996
+        },
+        {
+            "MovieID": 12,
+            "MovieName": "Selva",
+            "Role": "Selvan",
+            "Director": "A. Venkatesh",
+            "Year": 1996
+        },
+        {
+            "MovieID": 13,
+            "MovieName": "Kaalamellam Kaathiruppen",
+            "Role": "Kannan",
+            "Director": "R. Sundarrajan",
+            "Year": 1997
+        },
+        {
+            "MovieID": 14,
+            "MovieName": "Love Today",
+            "Role": "Ganesh",
+            "Director": "Balasekaran",
+            "Year": 1997
+        },
+        {
+            "MovieID": 15,
+            "MovieName": "Once More",
+            "Role": "Vijay",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1997
+        },
+        {
+            "MovieID": 16,
+            "MovieName": "Nerrukku Ner",
+            "Role": "Vijay",
+            "Director": "Vasanth",
+            "Year": 1997
+        },
+        {
+            "MovieID": 17,
+            "MovieName": "Kadhalukku Mariyadhai",
+            "Role": "Jeeva",
+            "Director": "Fazil",
+            "Year": 1997
+        },
+        {
+            "MovieID": 18,
+            "MovieName": "Ninaithen Vandhai",
+            "Role": "Gokulakrishnan",
+            "Director": "K. Selva Bharathy",
+            "Year": 1998
+        },
+        {
+            "MovieID": 19,
+            "MovieName": "Priyamudan",
+            "Role": "Vasanth",
+            "Director": "Vincent Selva",
+            "Year": 1998
+        },
+        {
+            "MovieID": 20,
+            "MovieName": "Nilaave Vaa",
+            "Role": "Siluvai",
+            "Director": "A. Venkatesh",
+            "Year": 1998
+        },
+        {
+            "MovieID": 21,
+            "MovieName": "Thulladha Manamum Thullum",
+            "Role": "Kutty",
+            "Director": "Ezhil",
+            "Year": 1999
+        },
+        {
+            "MovieID": 22,
+            "MovieName": "Endrendrum Kadhal",
+            "Role": "Vijay",
+            "Director": "Manoj Gyan",
+            "Year": 1999
+        },
+        {
+            "MovieID": 23,
+            "MovieName": "Nenjinile",
+            "Role": "Karunakaran",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 1999
+        },
+        {
+            "MovieID": 24,
+            "MovieName": "Minsara Kanna",
+            "Role": "Kannan | Kasi",
+            "Director": "K. S. Ravikumar",
+            "Year": 1999
+        },
+        {
+            "MovieID": 25,
+            "MovieName": "Kannukkul Nilavu",
+            "Role": "Gautham",
+            "Director": "Fazil",
+            "Year": 2000
+        },
+        {
+            "MovieID": 26,
+            "MovieName": "Kushi",
+            "Role": "Shiva",
+            "Director": "S. J. Surya",
+            "Year": 2000
+        },
+        {
+            "MovieID": 27,
+            "MovieName": "Priyamaanavale",
+            "Role": "Vijay",
+            "Director": "K. Selva Bharathy",
+            "Year": 2000
+        },
+        {
+            "MovieID": 28,
+            "MovieName": "Friends",
+            "Role": "Aravind",
+            "Director": "Siddique",
+            "Year": 2001
+        },
+        {
+            "MovieID": 29,
+            "MovieName": "Badri",
+            "Role": "Badri",
+            "Director": "P. A. Arun Prasad",
+            "Year": 2001
+        },
+        {
+            "MovieID": 30,
+            "MovieName": "Shahjahan",
+            "Role": "Ashok",
+            "Director": "Ravi",
+            "Year": 2001
+        },
+        {
+            "MovieID": 31,
+            "MovieName": "Thamizhan",
+            "Role": "Surya",
+            "Director": "Majith",
+            "Year": 2002
+        },
+        {
+            "MovieID": 32,
+            "MovieName": "Youth",
+            "Role": "Shiva",
+            "Director": "Vincent Selva",
+            "Year": 2002
+        },
+        {
+            "MovieID": 33,
+            "MovieName": "Bagavathi",
+            "Role": "Bhagavathi",
+            "Director": "A. Venkatesh",
+            "Year": 2002
+        },
+        {
+            "MovieID": 34,
+            "MovieName": "Vaseegara",
+            "Role": "Bhupathy",
+            "Director": "K. Selva Bharathy",
+            "Year": 2003
+        },
+        {
+            "MovieID": 35,
+            "MovieName": "Pudhiya Geethai",
+            "Role": "Sarathi",
+            "Director": "K. P. Jagan",
+            "Year": 2003
+        },
+        {
+            "MovieID": 36,
+            "MovieName": "Thirumalai",
+            "Role": "Thirumalai",
+            "Director": "Ramana",
+            "Year": 2003
+        },
+        {
+            "MovieID": 37,
+            "MovieName": "Udhaya",
+            "Role": "Udhayakumaran",
+            "Director": "Azhagam Perumal",
+            "Year": 2004
+        },
+        {
+            "MovieID": 38,
+            "MovieName": "Ghilli",
+            "Role": "Velu",
+            "Director": "Dharani",
+            "Year": 2004
+        },
+        {
+            "MovieID": 39,
+            "MovieName": "Madhurey",
+            "Role": "Maduravel",
+            "Director": "Ramana Madhesh",
+            "Year": 2004
+        },
+        {
+            "MovieID": 40,
+            "MovieName": "Thirupaachi",
+            "Role": "Sivagiri",
+            "Director": "Perarasu",
+            "Year": 2005
+        },
+        {
+            "MovieID": 41,
+            "MovieName": "Sukran",
+            "Role": "Sukran",
+            "Director": "S. A. Chandrasekhar",
+            "Year": 2005
+        },
+        {
+            "MovieID": 42,
+            "MovieName": "Sachein",
+            "Role": "Sachein",
+            "Director": "John Mahendran",
+            "Year": 2005
+        },
+        {
+            "MovieID": 43,
+            "MovieName": "Sivakasi",
+            "Role": "Muthappa | Sivakasi",
+            "Director": "Perarasu",
+            "Year": 2005
+        },
+        {
+            "MovieID": 44,
+            "MovieName": "Aadhi",
+            "Role": "Aadhi",
+            "Director": "Ramana",
+            "Year": 2006
+        },
+        {
+            "MovieID": 45,
+            "MovieName": "Pokkiri",
+            "Role": "Sathyamoorthy | Thamizh",
+            "Director": "Prabhu Deva",
+            "Year": 2007
+        },
+        {
+            "MovieID": 46,
+            "MovieName": "Azhagiya Tamil Magan",
+            "Role": "Guru & Prasad",
+            "Director": "Bharathan",
+            "Year": 2007
+        },
+        {
+            "MovieID": 47,
+            "MovieName": "Kuruvi",
+            "Role": "Vetrivel",
+            "Director": "Dharani",
+            "Year": 2008
+        },
+        {
+            "MovieID": 48,
+            "MovieName": "Villu",
+            "Role": "Pugazh | Saravanan",
+            "Director": "Prabhu Deva",
+            "Year": 2009
+        },
+        {
+            "MovieID": 49,
+            "MovieName": "Vettaikaaran",
+            "Role": "Ravi",
+            "Director": "B. Babusivan",
+            "Year": 2009
+        },
+        {
+            "MovieID": 50,
+            "MovieName": "Sura",
+            "Role": "Sura",
+            "Director": "S. P. Rajkumar",
+            "Year": 2010
+        },
+        {
+            "MovieID": 51,
+            "MovieName": "Kaavalan",
+            "Role": "Bhoominathan",
+            "Director": "Siddique",
+            "Year": 2011
+        },
+        {
+            "MovieID": 52,
+            "MovieName": "Velayudham",
+            "Role": "Velayudham",
+            "Director": "Mohan Raja",
+            "Year": 2011
+        },
+        {
+            "MovieID": 53,
+            "MovieName": "Nanban",
+            "Role": "Kosaksi Pasapugazh | Panchavan Parivendan",
+            "Director": "S. Shankar",
+            "Year": 2012
+        },
+        {
+            "MovieID": 54,
+            "MovieName": "Thuppakki",
+            "Role": "Jagadish Dhanapal",
+            "Director": "AR Murugadoss",
+            "Year": 2012
+        },
+        {
+            "MovieID": 55,
+            "MovieName": "Thalaivaa",
+            "Role": "Vishwa",
+            "Director": "A. L. Vijay",
+            "Year": 2013
+        },
+        {
+            "MovieID": 56,
+            "MovieName": "Jilla",
+            "Role": "Shakthi",
+            "Director": "R. T. Neason",
+            "Year": 2014
+        },
+        {
+            "MovieID": 57,
+            "MovieName": "Kaththi",
+            "Role": "Kathiresan & Jeevanandham",
+            "Director": "AR Murugadoss",
+            "Year": 2014
+        },
+        {
+            "MovieID": 58,
+            "MovieName": "Puli",
+            "Role": "Marudheeran & Pulivendhan",
+            "Director": "Chimbu Deven",
+            "Year": 2015
+        },
+        {
+            "MovieID": 59,
+            "MovieName": "Theri",
+            "Role": "Vijay Kumar | Joseph Kuruvilla | Dharmeshwar",
+            "Director": "Atlee",
+            "Year": 2016
+        },
+        {
+            "MovieID": 60,
+            "MovieName": "Bairavaa",
+            "Role": "Bairavaa",
+            "Director": "Bharathan",
+            "Year": 2017
+        },
+        {
+            "MovieID": 61,
+            "MovieName": "Mersal",
+            "Role": "Vetri, Maaran, & Vetrimaaran",
+            "Director": "Atlee",
+            "Year": 2017
+        },
+        {
+            "MovieID": 62,
+            "MovieName": "Sarkar",
+            "Role": "TBA",
+            "Director": "AR Murugadoss",
+            "Year": 2018
+        },
+        {
+            "MovieID": 63,
+            "MovieName": "Bigil",
+            "Role": "",
+            "Director": "",
+            "Year": ""
+        }
+    ]
+}

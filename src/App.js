@@ -1,26 +1,47 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import $ from 'jquery';
+import Home from './Components/Home';
+import Header from './Components/Header';
+import Banner from './Components/Banner';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      items: [],
+      isLoaded: false,
+    }
+  }
+  getData() {
+    $.ajax({
+      url: 'https://script.google.com/macros/s/AKfycbylSs0-xFbC2TjHzgXdN22ZzOnL4MPm_G9Z1poYEbE9dj3D_kBy/exec',
+      dataType: 'json',
+      cache: false,
+      success: function (data) {
+        this.setState({ getData: data });
+      }.bind(this),
+      error: function (xhr, status, err) {
+        console.log(err);
+        alert(err);
+      }
+    });
+  }
+  componentDidMount() {
+    this.getData();
+  }
+  render() {
+
+    return (
+      <div className="App" >
+        <Header data={this.state.getData} />
+        <Banner data={this.state.getData} />
+        <Home data={this.state.getData} />
+
+
+      </div >
+    );
+
+  }
 }
-
 export default App;

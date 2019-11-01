@@ -14,6 +14,7 @@ class App extends Component {
   getData() {
     $.ajax({
       //url: 'https://script.google.com/macros/s/AKfycbylSs0-xFbC2TjHzgXdN22ZzOnL4MPm_G9Z1poYEbE9dj3D_kBy/exec',
+      //url: 'https://script.google.com/macros/s/AKfycbylSs0-xFbC2TjHzgXdN22ZzOnL4MPm_G9Z1poYEbE9dj3D_kBy/exec',
       url: '/vijay.json',
       dataType: 'json',
       cache: false,

@@ -34,7 +34,7 @@ const BannerImage = ({ user, active }) => (
               data-vbtype="video"
               className="venobox btn btn-default"
             >
-              <i className="material-icons">play_arrow</i>{" "}
+              <i className="material-icons">play_arrow</i>
               <span>Play trailer</span>
             </a>
           </div>
